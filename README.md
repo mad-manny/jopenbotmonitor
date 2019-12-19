@@ -1,4 +1,4 @@
-# jopenbotmonitor
+# JOpenBotMonitor
 
 JOpenBotMonitor is a Jave EE web application built to run on Java application servers like [Apache Tomcat](https://tomcat.apache.org/).
 It is designed to log malicious web bot activities and make them visible for the interested public.
